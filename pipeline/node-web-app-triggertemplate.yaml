@@ -88,7 +88,7 @@ metadata:
   name: el-node-web-app
   namespace: node-web-project
 spec:
-  host: el-node-web-app.apps.roly-ocp43-cluster.roly-ocp.com
+  host: el-node-web-app.apps.8-46-46-151.nip.io
   to:
     kind: Service
     name: el-node-web-app-el

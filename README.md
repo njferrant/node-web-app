@@ -352,5 +352,3 @@ This completes loading the solution.
 
 - Redeploying TriggerTemplate does not cause the Event App to restart.  Delete pod to run new instance.  
 
-
-
